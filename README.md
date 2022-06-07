@@ -137,12 +137,3 @@ mvn test -Dkarate.options="--tags ~@tag"
 Todas as tags podem ser configuradas na classe da suíte de testes. (InatelTest.Java)
 
 ```
-
-## Caso queira uma solução mais robusta para ter Ubuntu rodando dentro do Windows (WSL + JDK GWSL):
-
-https://www.youtube.com/watch?v=qb2ClX7BQ78
-
-## Instalação da IDE IntelliJ (É preciso fazer a instalação anterior)
-
-https://www.youtube.com/watch?v=cvKO2YciYe8
-
