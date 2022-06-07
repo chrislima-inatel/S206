@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-describe('Teste de tamanho de elementos!', () => {
+describe('Teste de tamanho de elementos', () => {
 
     it('Teste tamanho', () => { 
         cy.visit('https://www.rahulshettyacademy.com/AutomationPractice/');
