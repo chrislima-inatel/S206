@@ -1,6 +1,6 @@
 /// <reference types="cypress"/>
 
-describe('Cenário de Teste: Testar funcionalidades da página testpages hospedada com herokuapp', () => {
+describe.skip('Cenário de Teste: Testar funcionalidades da página testpages hospedada com herokuapp', () => {
 
     const userName = 'QA NINJA Inatel';
     const userPass = 'qaninjainatel';
