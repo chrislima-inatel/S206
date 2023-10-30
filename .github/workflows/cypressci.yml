@@ -28,5 +28,5 @@ jobs:
     - run: |
         cd cypress_testes
         npm install
-        ./node_modules/.bin/cypress run --spec 'cypress/integration/aula_inatel/**/'
+        ./node_modules/.bin/cypress run --spec 'cypress/e2e/aula_inatel/**/'
       
